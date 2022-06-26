@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![img](https://images.pexels.com/photos/360591/pexels-photo-360591.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 # Nodejs - esencial.
 
@@ -23,8 +22,3 @@ Recursos:
 - Conceptos
 - Pilares POO
 - Practica: [practica](./Resource/PooActividad.md)
-
-=======
-# content6
-nodejs esencial
->>>>>>> a5943923bafeb3e8e1ecb333db2ce8e8733d3680
